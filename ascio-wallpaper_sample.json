@@ -1,0 +1,185 @@
+{
+    "Categories": 
+        [
+            {
+                "name": "People"
+            },
+            {
+                "name": "Architecture"
+            },
+            {
+                "name": "City"
+            },
+            {
+                "name": "Mountain"
+            },
+            {
+                "name": "Forest"
+            },
+            {
+                "name": "Sunset"
+            },
+            {
+                "name": "Nature"
+            },
+            {
+                "name": "Satellite"
+            },
+            {
+                "name": "Animal"
+            },
+            {
+                "name": "Ocean"
+            },
+            {
+                "name": "Beach"
+            },
+            {
+                "name": "Road"
+            },
+            {
+                "name": "Black and White"
+            },
+            {
+                "name": "House"
+            }
+        ],
+    
+	"Wallpapers":
+        [
+			{
+				"author": "Resoucer ",
+				"url": "https://image.ibb.co/dDVNwT/purple_aurora_sparks_wallpaper_for_1920x1080_63_533.jpg",
+				"thumbUrl": "https://image.ibb.co/dDVNwT/purple_aurora_sparks_wallpaper_for_1920x1080_63_533.jpg",
+				"name": "Wallpaper 1",
+                "category": "people"
+			},
+            {
+				"author": "Resoucer",
+				"url": "https://image.ibb.co/dJ3Wqo/peacock_wallpaper_for_1920x1080_63_1162.jpg",
+				"thumbUrl": "https://image.ibb.co/dJ3Wqo/peacock_wallpaper_for_1920x1080_63_1162.jpg",
+				"name": "Wallpaper 2",
+                "category": "architecture"
+			},
+            {
+				"author": "Resoucer",
+				"url": "https://image.ibb.co/ixSPAo/peyto_lake_canada_wallpaper_for_1920x1080_63_1152.jpg",
+				"thumbUrl": "https://image.ibb.co/ixSPAo/peyto_lake_canada_wallpaper_for_1920x1080_63_1152.jpg",
+				"name": "Wallpaper 3",
+                "category": "architecture,city"
+			},
+            {
+				"author": "Resoucer ",
+				"url": "https://image.ibb.co/eHh2wT/outer_space_oil_painting_wallpaper_for_1920x1080_63_897.jpg",
+				"thumbUrl": "https://image.ibb.co/eHh2wT/outer_space_oil_painting_wallpaper_for_1920x1080_63_897.jpg",
+				"name": "Wallpaper 4",
+                "category": "people"
+			},
+            {
+				"author": "Resoucer ",
+				"url": "https://image.ibb.co/n7bUbT/na_pali_coast_wallpaper_for_1920x1080_63_787.jpg",
+				"thumbUrl": "https://image.ibb.co/n7bUbT/na_pali_coast_wallpaper_for_1920x1080_63_787.jpg",
+				"name": "Wallpaper 5",
+                "category": "people"
+			},
+            {
+				"author": "Resoucer ",
+				"url": "https://image.ibb.co/iEa0i8/multicolor_stripes_wallpaper_for_1920x1080_63_1135.jpg",
+				"thumbUrl": "https://image.ibb.co/iEa0i8/multicolor_stripes_wallpaper_for_1920x1080_63_1135.jpg",
+				"name": "Wallpaper 6",
+                "category": "people"
+			},
+            {
+				"author": "Resoucer ",
+				"url": "https://image.ibb.co/hGd9bT/deep_void_wallpaper_for_1920x1080_63_973.jpg",
+				"thumbUrl": "https://image.ibb.co/hGd9bT/deep_void_wallpaper_for_1920x1080_63_973.jpg",
+				"name": "Wallpaper 7",
+                "category": "people"
+			},
+            {
+				"author": "Resoucer ",
+				"url": "https://image.ibb.co/f7PhwT/147752.jpg",
+				"thumbUrl": "https://image.ibb.co/f7PhwT/147752.jpg",
+				"name": "Wallpaper 8",
+                "category": "people"
+			},
+            {
+				"author": "Resoucer ",
+				"url": "https://image.ibb.co/jxL0i8/148450.jpg",
+				"thumbUrl": "https://image.ibb.co/jxL0i8/148450.jpg",
+				"name": "Wallpaper 9",
+                "category": "people"
+			},
+            {
+				"author": "Resoucer ",
+				"url": "https://image.ibb.co/fPND38/147754.jpg",
+				"thumbUrl": "https://image.ibb.co/fPND38/147754.jpg",
+				"name": "Wallpaper 10",
+                "category": "people"
+			},
+            {
+				"author": "Resoucer ",
+				"url": "https://image.ibb.co/j3eRO8/147745.jpg",
+				"thumbUrl": "https://image.ibb.co/j3eRO8/147745.jpg",
+				"name": "Wallpaper 11",
+                "category": "people"
+			},
+            {
+				"author": "Resoucer ",
+				"url": "https://image.ibb.co/g7eFGT/125528.jpg",
+				"thumbUrl": "https://image.ibb.co/g7eFGT/125528.jpg",
+				"name": "Wallpaper 12",
+                "category": "people"
+			},
+            {
+				"author": "Resoucer ",
+				"url": "https://image.ibb.co/ddhD38/147800.jpg",
+				"thumbUrl": "https://image.ibb.co/ddhD38/147800.jpg",
+				"name": "Wallpaper 13",
+                "category": "people"
+			},
+            {
+				"author": "Resoucer ",
+				"url": "https://image.ibb.co/cez4Ao/Ernesto_Alonso_2_2_0.jpg",
+				"thumbUrl": "https://image.ibb.co/cez4Ao/Ernesto_Alonso_2_2_0.jpg",
+				"name": "Wallpaper 14",
+                "category": "people"
+			},
+            {
+				"author": "Resoucer ",
+				"url": "https://image.ibb.co/enapbT/abyss.jpg",
+				"thumbUrl": "https://image.ibb.co/enapbT/abyss.jpg",
+				"name": "Wallpaper 15",
+                "category": "people"
+			},
+            {
+				"author": "Resoucer ",
+				"url": "https://image.ibb.co/fp5pbT/OP6_01.jpg",
+				"thumbUrl": "https://image.ibb.co/fp5pbT/OP6_01.jpg",
+				"name": "Wallpaper 16",
+                "category": "people"
+			},
+            {
+				"author": "Resoucer ",
+				"url": "https://image.ibb.co/hRoaGT/OP6_02.jpg",
+				"thumbUrl": "https://image.ibb.co/hRoaGT/OP6_02.jpg",
+				"name": "Wallpaper 17",
+                "category": "people"
+			},
+            {
+				"author": "Resoucer ",
+				"url": "https://image.ibb.co/fiz4Ao/OP6_05.jpg",
+				"thumbUrl": "https://image.ibb.co/fiz4Ao/OP6_05.jpg",
+				"name": "Wallpaper 18",
+                "category": "people"
+			},
+            {
+				"author": "Resoucer ",
+				"url": "https://image.ibb.co/drL0i8/voyage_to_elsewhere.jpg",
+				"thumbUrl": "https://image.ibb.co/drL0i8/voyage_to_elsewhere.jpg",
+				"name": "Wallpaper 19",
+                "category": "people"
+			}
+            
+		]
+}
